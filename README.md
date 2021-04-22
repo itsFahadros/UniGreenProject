@@ -1,1 +1,1 @@
-# UniGreenProject
+# Univesity of Greenwich Projects
